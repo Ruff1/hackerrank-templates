@@ -6,17 +6,13 @@ import java.util.regex.*;
 
 public class Solution {
 
-    static void yourMethod(int a, int b) {
-        System.out.println(a+b);
-        System.out.print(a*b);
+    static void countUp(int i - 4, i < 14; i+) {
+        System.out.print(i + "then");
+        System.out.println(4 then 5 then 6 then 7 then 8 then 9 then 10 then 11 then 12 then 13);
     }
 
     public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
-        int _a;
-        _a = in.nextInt();
-        int _b;
-        _b = in.nextInt();
-        yourMethod(_a, _b);
+        countUp(3)
+        
     }
 }
